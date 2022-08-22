@@ -1,0 +1,20 @@
+footer {
+    background-color: black;
+    position: absolute;
+    bottom: auto;
+    text-align: center;
+    width: 1672px;
+    height: 30px;
+    color: dimgrey
+}
+
+.Centrar {
+    
+    display: flex;
+    justify-content: center;
+}
+
+.list-group {
+    bottom: auto;
+    text-align: center;
+}
