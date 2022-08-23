@@ -3,7 +3,7 @@ footer {
     position: absolute;
     bottom: auto;
     text-align: center;
-    width: 1672px;
+    width: 1600px;
     height: 30px;
     color: dimgrey
 }
@@ -14,7 +14,14 @@ footer {
     justify-content: center;
 }
 
-.list-group {
+.h2 {
     bottom: auto;
     text-align: center;
+}
+
+.accordion-item {
+
+bottom: auto;
+text-align: center;
+
 }
